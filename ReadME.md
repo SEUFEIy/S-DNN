@@ -1,6 +1,6 @@
 DNA Repair-Inspired Neural Self-Development: Autonomous Structural Plasticity for Sustained AI Learning
 
-#run experiment
+# run experiment
 ```
 bash run1.sh 
 ```
